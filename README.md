@@ -8,3 +8,5 @@ Projekt pokazuje automatyzację testów API przy użyciu Postman, Newman i GitHu
 1. Stworzono kolekcję testów w Postman.
 2. Testy uruchamiane lokalnie za pomocą Newman.
 3. Pipeline CI/CD w GitHub Actions uruchamia testy automatycznie po push do repozytorium.
+
+testtest
